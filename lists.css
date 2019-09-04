@@ -1,0 +1,23 @@
+h1{
+    color: yellow;
+    background-color: darkblue;
+    text-align: center;
+
+}
+section{
+    color: yellow;
+    float: left;
+    background-color: darkblue;
+    border: 5px solid cornflowerblue;
+    height: 350px;
+    margin-left: 200px;
+}
+aside{
+    float: right;
+    height:350px;
+    margin-right: 100px;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
